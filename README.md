@@ -2,7 +2,6 @@
 
 Prerequisite: Prepare the required tools/applications for running this mobile automation test repository.
 - Android Studio
-- Java
 - Node.js
 - Appium Server
 - Appium and Selenium Java Client Library
